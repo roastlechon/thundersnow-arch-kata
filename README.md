@@ -197,6 +197,8 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 ![System Context](./%20Monitor%20Me%20-%20Arch%20Kata%20(Latest).png?raw=true" "System Context")
 
+[Journey Diagrams](./MonitorMe%20-%20C4%20Overview.pdf?raw=true)
+
   # Customer Journey
 
   ## Case 1: Nurse onboards patient with devices
