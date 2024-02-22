@@ -94,75 +94,75 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 ### Availability
 
-#### Must be available all the time to deliver vitals, alerts to monitoring devices
+#### NFR1: Must be available all the time to deliver vitals, alerts to monitoring devices
 
-#### Device must send heartbeat to MonitorMe regardless of vitals.
+#### NFR2: Device must send heartbeat to MonitorMe regardless of vitals.
 
 ### Performance
 
-#### Each vital monitoring function must complete as fast as possible.
+#### NFR3: Each vital monitoring function must complete as fast as possible.
 
 
 
-#### MonitorMe must deliver data to nursing stations with an average response time of 1 second or less
+#### NFR4: MonitorMe must deliver data to nursing stations with an average response time of 1 second or less
 
 
 
 ### Reliability
 
-#### If any vital sign device (or software) fails, MonitorMe must still function for other vital sign monitoring (monitor, record, analyze, and alert).
+#### NFR5: If any vital sign device (or software) fails, MonitorMe must still function for other vital sign monitoring (monitor, record, analyze, and alert).
 
 
 
 ### Security
 
-#### MonitorMe does not need to meet HIPAA
+#### NFR6: MonitorMe does not need to meet HIPAA
 
 
 
-#### MonitorMe needs to comply with standard security practices.
+#### NFR7: MonitorMe needs to comply with standard security practices.
 
 
 
 ### Deployability
 
-#### MonitorMe needs to be deployed to multiple hospital locations
+#### NFR8: MonitorMe needs to be deployed to multiple hospital locations
 
 
 
-#### MonitorMe (the entire system) needs to be an on-premise solution only
+#### NFR9: MonitorMe (the entire system) needs to be an on-premise solution only
 
 
 
 ### Elasticity
 
-#### Each patient monitoring device transmits vital sign readings at a different rate. Every half second to every hour
+#### NFR10: Each patient monitoring device transmits vital sign readings at a different rate. Every half second to every hour
 
 
 
-#### The system needs to be able to adjust from periods of lower alert analysis (a patient sleeping), to periods of greater alert analysis (a patient is awake).
+#### NFR11: The system needs to be able to adjust from periods of lower alert analysis (a patient sleeping), to periods of greater alert analysis (a patient is awake).
 
 
 
 ### Scalability
 
-#### A MonitorMe instance needs to support a max of 500 patients (in a hospital)
+#### NFR12: A MonitorMe instance needs to support a max of 500 patients (in a hospital)
 
 
 
-#### A MonitorMe nursing station can have 20 patients
+#### NFR13: A MonitorMe nursing station can have 20 patients
 
 
 
-#### MonitorMe needs to be able to expand to more vital sign monitoring devices
+#### NFR14: MonitorMe needs to be able to expand to more vital sign monitoring devices
 
 ### Accuracy
 
-#### MonitorMe needs to be as accurate as possible
+#### NFR15: MonitorMe needs to be as accurate as possible
 
-#### Doctors must be able to get an accurate snapshot, regardless of which station the patient is currently registered to.
+#### NFR16: Doctors must be able to get an accurate snapshot, regardless of which station the patient is currently registered to.
 
-#### A patient needs to be able to move between MonitorMe stations which still ensures data accuracy.
+#### NFR17: A patient needs to be able to move between MonitorMe stations which still ensures data accuracy.
 
 # System Context
 
