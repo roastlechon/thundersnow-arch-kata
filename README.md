@@ -48,47 +48,47 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 ### FR1: Patient monitoring device transmits vital sign readings:
 
-#### Heart rate: every 500ms
+#### FR1.1: Heart rate: every 500ms
 
-#### Blood pressure: every hour
+#### FR1.2: Blood pressure: every hour
 
-#### Oxygen level: every 5 seconds
+#### FR1.3: Oxygen level: every 5 seconds
 
-#### Blood sugar: every 2 minutes
+#### FR1.4: Blood sugar: every 2 minutes
 
-#### Respiration: every second
+#### FR1.5: Respiration: every second
 
-#### ECG: every second
+#### FR1.6: ECG: every second
 
-#### Body temperature: every 5 minutes
+#### FR1.7: Body temperature: every 5 minutes
 
-#### Sleep status: every 2 minutes
+#### FR1.8: Sleep status: every 2 minutes
 
-### Monitoring screen displays each patient vitals, rotating each patient every 5 seconds
+### FR2: Monitoring screen displays each patient vitals, rotating each patient every 5 seconds
 
-### The software should analyze each patient’s vital signs, and alert when an issue is detected (e.g., decrease in oxygen level)
+### FR3: The software should analyze each patient’s vital signs, and alert when an issue is detected (e.g., decrease in oxygen level)
 
-### Medical professionals should receive push alerts for potential problems, sent to their phone via a mobile app
+### FR4: Medical professionals should receive push alerts for potential problems, sent to their phone via a mobile app
 
-### Alerts for potential problems should be pushed to the monitoring screens
+### FR5: Alerts for potential problems should be pushed to the monitoring screens
 
-### Medical professionals should be able to view vital sign history
-
-
-### Medical professionals should be able to filter on time range
+### FR6: Medical professionals should be able to view vital sign history
 
 
-### Medical professionals should be able to filter on vital signs
+### FR7: Medical professionals should be able to filter on time range
 
-### Medical professionals should be able to set alert thresholds for each vital sign
 
-### System should be able to understand situational thresholds based on other vitals (sleeping patient can have blood pressure drop)
+### FR8: Medical professionals should be able to filter on vital signs
 
-### Medical professionals should be able to receive alerts if vital sign is reached
+### FR9: Medical professionals should be able to set alert thresholds for each vital sign
 
-### Medical staff should be able to generate holistic snapshots from a patient's consolidated vital signs at any time.
+### FR10: System should be able to understand situational thresholds based on other vitals (sleeping patient can have blood pressure drop)
 
-### Medical staff should be able to upload patient snapshot using HTTPS to MyMedicalData
+### FR11: Medical professionals should be able to receive alerts if vital sign is reached
+
+### FR12: Medical staff should be able to generate holistic snapshots from a patient's consolidated vital signs at any time.
+
+### FR13: Medical staff should be able to upload patient snapshot using HTTPS to MyMedicalData
 
 ## Non-Functional Requirements
 
