@@ -193,7 +193,9 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 # IcePanel (C4 Model)
 
-# <https://app.icepanel.io/landscapes/9aq3wnQAoXlZssDzqgvG/versions/latest/diagrams/editor?diagram=zCUm4qxvHG&model=WBRSoR4sDL&overlay_tab=tags&x1=-1260.3&y1=-1267.9&x2=2318.3&y2=580.9>
+[IcePanel interactive diagram](https://s.icepanel.io/KyPu9LD0iOUJjY/9YPp)
+
+![System Context]("./Monitor Me - Arch Kata (Latest).png?raw=true" "System Context")
 
   # Customer Journey
 
@@ -568,7 +570,7 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
   Our approach for the backend microservices is to use Go. It is a highly-performant, strongly-typed, efficient language. This allows for quick execution, and quick deployments. Go allows us to make full use of the available hardware, in a CPU and memory-efficient manner.
 
   ### **Consequences:**
-  
+
   * The microservices can perform their functions very quickly, with code processing time minimized greatly
 
   * Go scales well vertically
