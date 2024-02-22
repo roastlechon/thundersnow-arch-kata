@@ -380,11 +380,14 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
   * NFR5
 
   * NFR14
+
   ### **Decision:** 
 
   We chose to use microservices that are exposed via an API Gateway. Microservice pattern allows us to have disparate business logic and responsibilities for each service. It is also a choice for us to not create separate databases for each vertical (microservice) to reduce cross communication and complexity.
 
-  ### **Consequences:*** Separation of concerns: individual feature requirements can be done independently from each other
+  ### **Consequences:**
+
+  * Separation of concerns: individual feature requirements can be done independently from each other
 
   * Extensibility: versus a monolithic application, microservices allow MonitorMe to be extended to support any future possible new feature requirements with minimal refactoring or re-architecting
 
@@ -562,7 +565,10 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
   * NFR12
   ### **Decision:** 
 
-  Our approach for the backend microservices is to use Go. It is a highly-performant, strongly-typed, efficient language. This allows for quick execution, and quick deployments. Go allows us to make full use of the available hardware, in a CPU and memory-efficient manner.**Consequences:**
+  Our approach for the backend microservices is to use Go. It is a highly-performant, strongly-typed, efficient language. This allows for quick execution, and quick deployments. Go allows us to make full use of the available hardware, in a CPU and memory-efficient manner.
+
+  ### **Consequences:**
+  
   * The microservices can perform their functions very quickly, with code processing time minimized greatly
 
   * Go scales well vertically
