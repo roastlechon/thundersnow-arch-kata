@@ -1,5 +1,13 @@
 # Thundersnow's O'Reilly Architectural Kata 2024
 
+# Team Members
+
+* Curtis Halbrook
+* Nick Hester
+* Jay Lee
+* Noel Madali
+* Shaun Wallace
+
 # Context / Problem Statement<a id="context--problem-statement"></a>
 
 StayHealthy, Inc. is now expanding into the medical monitoring market, and is in need of a new medical patient monitoring system for hospitals that monitors a patient’s vital signs using proprietary medical monitoring devices built by StayHealthy, Inc.
