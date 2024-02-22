@@ -195,7 +195,7 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 [IcePanel interactive diagram](https://s.icepanel.io/KyPu9LD0iOUJjY/9YPp)
 
-![System Context]("./Monitor Me - Arch Kata (Latest).png?raw=true" "System Context")
+![System Context](./%20Monitor%20Me%20-%20Arch%20Kata%20(Latest).png?raw=true" "System Context")
 
   # Customer Journey
 
