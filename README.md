@@ -56,21 +56,21 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 ### FR1: Patient monitoring device transmits vital sign readings:
 
-   #### FR1.1: Heart rate: every 500ms
+   * #### FR1.1: Heart rate: every 500ms
 
-   #### FR1.2: Blood pressure: every hour
+   * #### FR1.2: Blood pressure: every hour
 
-   #### FR1.3: Oxygen level: every 5 seconds
+   * #### FR1.3: Oxygen level: every 5 seconds
 
-   #### FR1.4: Blood sugar: every 2 minutes
+   * #### FR1.4: Blood sugar: every 2 minutes
 
-   #### FR1.5: Respiration: every second
+   * #### FR1.5: Respiration: every second
 
-   #### FR1.6: ECG: every second
+   * #### FR1.6: ECG: every second
 
-   #### FR1.7: Body temperature: every 5 minutes
+   * #### FR1.7: Body temperature: every 5 minutes
 
-   #### FR1.8: Sleep status: every 2 minutes
+   * #### FR1.8: Sleep status: every 2 minutes
 
 ### FR2: Monitoring screen displays each patient vitals, rotating each patient every 5 seconds
 
