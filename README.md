@@ -195,7 +195,8 @@ _State goals or KPIs of desirable and measurable outcomes of the project._
 
 [IcePanel interactive diagram](https://s.icepanel.io/KyPu9LD0iOUJjY/9YPp)
 
-![System Context](./%20Monitor%20Me%20-%20Arch%20Kata%20(Latest).png?raw=true" "System Context")
+![System Context](./Monitor%20Me%20-%20Arch%20Kata%20(Latest).png?raw=true" "System Context")
+![Container Diagram](./MonitorMe%20-%20App%20Diagram%20(Latest).png?raw=true" "System Context")
 
 [Journey Diagrams](./MonitorMe%20-%20C4%20Overview.pdf?raw=true)
 
