@@ -1,5 +1,7 @@
 # Thundersnow's O'Reilly Architectural Kata 2024
 
+[Original Google Doc](https://docs.google.com/document/d/1arpc9sgIoPhc0_30cjgbvz3_DV1TfSqJ1_NTxfkxpVo/edit)
+
 # Team Members
 
 * Curtis Halbrook
